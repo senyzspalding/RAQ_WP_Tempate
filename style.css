@@ -1,0 +1,9 @@
+.eslnReadMore, .eslnReadLess {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #2980B9;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
